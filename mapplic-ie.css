@@ -6,7 +6,7 @@ a img { border: none; }
 }
 
 .mapplic-minimap-overlay {
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/alpha50.png);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/alpha50.png);
 }
 
 .mapplic-minimap-active {
@@ -15,5 +15,5 @@ a img { border: none; }
 }
 
 .mapplic-list-category > a span {
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/alpha20.png);	
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/alpha20.png);	
 }

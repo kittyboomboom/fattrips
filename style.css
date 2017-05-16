@@ -62,7 +62,7 @@ a {
 
 /* Header */
 #header {
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/background.jpg);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/background.jpg);
 	background-repeat: no-repeat;
 	background-position: center -60px;
 	background-size: cover;
@@ -97,7 +97,7 @@ a {
 
 /* Logo */
 #logo {
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/logo.png);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/logo.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	display: block;
@@ -133,7 +133,7 @@ a {
     width: 14px;
     height: 42px;
     content: '';
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/button-divider.png);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/button-divider.png);
 	background-repeat: no-repeat;
     position: absolute;
     left: -14px;
@@ -148,7 +148,7 @@ a {
 /* Browser mockup */
 .window-mockup {
 	background-color: #f0f0f0; /* #f0ece0 */
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/window.png);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/window.png);
 	background-repeat: no-repeat;
 	background-position: 14px center;
 	border-radius: 10px 10px 0 0;
@@ -248,7 +248,7 @@ a {
 
 /* Contact */
 #contact {
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/mail.png);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/mail.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	display: block;
@@ -284,12 +284,12 @@ a {
 	padding-top: 60px;
 }
 
-.icon.landmark { background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/icon-landmark.png); }
-.icon.layer { background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/icon-layer.png); }
-.icon.link { background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/icon-link.png); }
-.icon.browser { background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/icon-browser.png); }
-.icon.responsive { background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/icon-responsive.png); }
-.icon.mobile { background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/icon-mobile.png); }
+.icon.landmark { background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/icon-landmark.png); }
+.icon.layer { background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/icon-layer.png); }
+.icon.link { background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/icon-link.png); }
+.icon.browser { background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/icon-browser.png); }
+.icon.responsive { background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/icon-responsive.png); }
+.icon.mobile { background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/icon-mobile.png); }
 
 .container {
 	margin: 20px 0;

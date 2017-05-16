@@ -22,7 +22,7 @@ g.mapplic-active > * {
 
 /* CUSTOM PINS */
 .mapplic-pin.my-new-pin { 								/* replace 'my-new-pin' with the name of your pin */
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/my-new-pin.png); 	/* define the path to image file */
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/my-new-pin.png); 	/* define the path to image file */
 	width: 20px;
 	height: 30px;
 	margin-left: -10px;	/* negative margins are used for */
@@ -85,12 +85,12 @@ g.mapplic-active > * {
 }
 
 .mapplic-dark .mapplic-tooltip-close {
-	background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/cross-light.png);
+	background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/cross-light.png);
 }
 
 /* retina */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
 	.mapplic-dark .mapplic-tooltip-close {
-		background-image: url(https://rawgit.com/bartekrudolph/fattrips/master/img/cross-light@2x.png);
+		background-image: url(https://rawgit.com/kittyboomboom/fattrips/master/img/cross-light@2x.png);
 	}
 }
