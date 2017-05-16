@@ -1,0 +1,561 @@
+{
+	"mapwidth":"1200",
+	"mapheight":"760",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"world",
+			"title":"World",
+			"map":"https://dl.dropbox.com/s/3n65zn691lzmj1y/world.svg",
+			"locations":[
+				{
+					"id": "bh",
+					"title": "Belize",
+					"description": "Belize.",
+					"pin": "hidden",
+					"fill": "#82c03e",
+					"link": "http://www.fattrips.com/belize.html",
+					"x": "0.2632",
+					"y": "0.6260"
+				},
+				{
+					"id": "us",
+					"title": "USA",
+					"description": "United States of America.",
+					"pin": "hidden",
+					"fill": "#82c03e",
+					"link": "http://www.fattrips.com/usa.html",
+					"x": "0.2344",
+					"y": "0.5276"
+				},
+				{
+					"id": "mx",
+					"title": "Mexico",
+					"description": "Mexico",
+					"link": "http://www.fattrips.com/mexico.html",
+					"fill": "#82c03e",
+					"pin": "hidden",
+					"x": "0.2329",
+					"y": "0.6124"
+				},
+				{
+					"id": "gt",
+					"title": "Guatemala",
+					"description": "Guatemala.",
+					"pin": "hidden",
+					"fill": "#82c03e",
+					"link": "http://www.fattrips.com/guatemala.html",
+					"x": "0.2584",
+					"y": "0.6348"
+				},
+				{
+					"id": "co",
+					"title": "Colombia",
+					"description": "Colombia",
+					"pin": "hidden",
+					"fill": "#29afa1",
+                    "link": "http://www.fattrips.com/colombia.html",
+					"x": "0.3023",
+					"y": "0.6795"
+				},
+				{
+					"id": "ec",
+					"title": "Ecuador",
+					"description": "Ecuador",
+					"pin": "hidden",
+					"fill": "#29afa1",
+                    "link": "http://www.fattrips.com/ecuador.html",
+					"x": "0.2907",
+					"y": "0.7032"
+				},
+				{
+					"id": "pe",
+					"title": "Peru",
+					"description": "Peru.",
+					"pin": "hidden",
+					"fill": "#29afa1",
+					"link": "http://www.fattrips.com/peru.html",
+					"x": "0.2946",
+					"y": "0.7334"
+				},
+				{
+					"id": "bo",
+					"title": "Bolivia",
+					"description": "Bolivia",
+					"pin": "hidden",
+					"fill": "#29afa1",
+                    "link": "http://www.fattrips.com/bolivia.html",
+					"x": "0.3229",
+					"y": "0.7659"
+				},
+				{
+				
+					"id": "cl",
+					"title": "Chile",
+					"description": "Chile",
+					"pin": "hidden",
+					"fill": "#29afa1",
+                    "link": "http://www.fattrips.com/chile.html",
+					"x": "0.3123",
+					"y": "0.8063"
+				},
+				{
+					"id": "ar",
+					"title": "Argentina",
+					"description": "Argentina",
+					"pin": "hidden",
+					"fill": "#29afa1",
+                    "link": "http://www.fattrips.com/argentina.html",
+					"x": "0.3273",
+					"y": "0.8563"
+				},
+				{
+					"id": "uy",
+					"title": "Uruguay",
+					"description": "Uruguay",
+					"pin": "hidden",
+					"fill": "#29afa1",
+                    "link": "http://www.fattrips.com/uruguay.html",
+					"x": "0.3476",
+					"y": "0.8453"
+				},
+				{
+					"id": "ma",
+					"title": "Morocco",
+					"description": "Morocco",
+					"pin": "hidden",
+					"fill": "#f19819",
+                    "link": "http://www.fattrips.com/morocco.html",
+				    "x": "0.4926",
+					"y": "0.5584"
+				},
+				{
+					"id": "es",
+					"title": "Spain",
+					"description": "Spain",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/spain.html",
+					"x": "0.4926",
+					"y": "0.5084"
+				},
+				{
+					"id": "it",
+					"title": "Italy",
+					"description": "Italy",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/italy.html",
+					"x": "0.5304",
+					"y": "0.4922"
+				},
+				{
+					"id": "cy",
+					"title": "Cyprus",
+					"description": "Cyprus",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/cyprus.html",
+					"x": "0.5879",
+					"y": "0.5413"
+				},
+				{
+					"id": "mc",
+					"title": "Monaco",
+					"description": "Monaco",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/monaco.html",
+					"x": "0.5382",
+					"y": "0.4624"
+				},
+				{
+					"id": "fr",
+					"title": "France",
+					"description": "France",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/france.html",
+					"x": "0.5054",
+					"y": "0.4646"
+				},
+				{
+					"id": "de",
+					"title": "Germany",
+					"description": "Germany",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/germany.html",
+					"x": "0.5271",
+					"y": "0.4475"
+                    },
+				{
+					"id": "gb",
+					"title": "England",
+					"description": "England",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/england.html",
+					"x": "0.4982",
+					"y": "0.4392"
+                    },
+				{
+					"id": "ie",
+					"title": "Irland",
+					"description": "Irland",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/irland.html",
+					"x": "0.4798",
+					"y": "0.4365"
+                    },
+				{
+					"id": "ch",
+					"title": "Switzerland",
+					"description": "Switzerland",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/switzerland.html",
+					"x": "0.5234",
+					"y": "0.4742"
+                    },
+				{
+					"id": "cz",
+					"title": "Czech Republic",
+					"description": "Czech Republic",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/czech-republic.html",
+					"x": "0.5415",
+					"y": "0.4576"
+                    },
+				{
+					"id": "pl",
+					"title": "Poland",
+					"description": "Poland",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/poland.html",
+					"x": "0.5504",
+					"y": "0.4396"
+                    },
+				{
+					"id": "dk",
+					"title": "Denmark",
+					"description": "Denmark",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/denmark.html",
+					"x": "0.5257",
+					"y": "0.4133"
+                    },
+				{
+					"id": "se",
+					"title": "Sweden",
+					"description": "Sweden",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/sweden.html",
+					"x": "0.5382",
+					"y": "0.4041"
+                    },
+				{
+					"id": "be",
+					"title": "Belgium",
+					"description": "Belgium",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/belgium.html",
+					"x": "0.5140",
+					"y": "0.4510"
+                    },
+				{
+					"id": "tr",
+					"title": "Turkey",
+					"description": "Turkey",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/turkey.html",
+					"x": "0.5854",
+					"y": "0.5225"
+                    },
+				{
+					"id": "nl",
+					"title": "Netherlands",
+					"description": "Netherlands",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/netherlands.html",
+					"x": "0.5179",
+					"y": "0.4387"
+                    },
+				{
+					"id": "sy",
+					"title": "Syria",
+					"description": "Syria",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/syria.html",
+					"x": "0.6015",
+					"y": "0.5405"
+                    },
+				{
+					"id": "jo",
+					"title": "Jordan",
+					"description": "Jordan",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/jordan.html",
+					"x": "0.5959",
+					"y": "0.5624"
+                    },
+				{
+					"id": "gr",
+					"title": "Greece",
+					"description": "Greece",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/greece.html",
+					"x": "0.5582",
+					"y": "0.5185"
+                    },
+				{
+					"id": "th",
+					"title": "Thailand",
+					"description": "Thailand",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/thailand.html",
+					"x": "0.7654",
+					"y": "0.6207"
+                    },
+				{
+					"id": "mm",
+					"title": "Myanmar",
+					"description": "Myanmar",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/myanmar.html",
+					"x": "0.7521",
+					"y": "0.6045"
+                    },
+				{
+					"id": "vn",
+					"title": "Vietnam",
+					"description": "Vietnam",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/vietnam.html",
+					"x": "0.7837",
+					"y": "0.6374"
+                    },
+				{
+					"id": "id",
+					"title": "Indonesia",
+					"description": "Indonesia",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/indonesia.html",
+					"x": "0.7704",
+					"y": "0.7054"
+                    },
+				{
+					"id": "la",
+					"title": "Laos",
+					"description": "Laos",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/laos.html",
+					"x": "0.7687",
+					"y": "0.6111"
+                    },
+				{
+					"id": "sg",
+					"title": "Singapore",
+					"description": "Singapore",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/singapore.html",
+					"x": "0.7712",
+					"y": "0.6870"
+                    },
+				{
+					"id": "my",
+					"title": "Malaysia",
+					"description": "Malaysia",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/malaysia.html",
+					"x": "0.7671",
+					"y": "0.6773"
+                    },
+				{
+					"id": "au",
+					"title": "Australia",
+					"description": "Australia",
+					"pin": "hidden",
+					"fill": "skyblue",
+                    "link": "http://www.fattrips.com/australia.html",
+					"x": "0.8518",
+					"y": "0.8054"
+                    },
+				{
+					"id": "kh",
+					"title": "Cambodia",
+					"description": "Cambodia",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/cambodia.html",
+					"x": "0.7740",
+					"y": "0.6409"
+                    },
+				{
+					"id": "tz",
+					"title": "Tanzania",
+					"description": "Tanzania",
+					"pin": "hidden",
+					"fill": "#f19819",
+                    "link": "http://www.fattrips.com/tanzania.html",
+					"x": "0.5979",
+					"y": "0.7190"
+                    },
+				{
+					"id": "pt",
+					"title": "Portugal",
+					"description": "Portugal",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/portugal.html",
+					"x": "0.4804",
+					"y": "0.5155"
+                    },
+				{
+					"id": "jp",
+					"title": "Japan",
+					"description": "Japan",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/japan.html",
+					"x": "0.8625",
+					"y": "0.5352"
+                    },
+				{
+					"id": "kr",
+					"title": "South Korea",
+					"description": "South Korea",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/south-korea.html",
+					"x": "0.8351",
+					"y": "0.5331"
+                    },
+				{
+					"id": "hu",
+					"title": "Hungary",
+					"description": "Hungary",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/hungary.html",
+					"x": "0.5526",
+					"y": "0.4747"
+                    },
+				{
+					"id": "tw",
+					"title": "Taiwan",
+					"description": "Taiwan",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/taiwan.html",
+					"x": "0.8167",
+					"y": "0.5934"
+                    },
+				{
+					"id": "mt",
+					"title": "Malta",
+					"description": "Malta",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/malta.html",
+					"x": "0.5376",
+					"y": "0.5365"
+                        },
+				{
+					"id": "cn",
+					"title": "China",
+					"description": "China",
+					"pin": "hidden",
+					"fill": "#f23543",
+                    "link": "http://www.fattrips.com/china.html",
+					"x": "0.7709",
+					"y": "0.5370"
+                        },
+				{
+					"id": "at",
+					"title": "Austria",
+					"description": "Austria",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/austria.html",
+					"x": "0.5393",
+					"y": "0.4712"
+                        },
+				{
+					"id": "sk",
+					"title": "Slovakia",
+					"description": "Slovakia",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/slovakia.html",
+					"x": "0.5515",
+					"y": "0.4659"
+                        },
+				{
+					"id": "hr",
+					"title": "Croatia",
+					"description": "Croatia",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/croatia.html",
+					"x": "0.5448",
+					"y": "0.4830"
+                        },
+				{
+					"id": "ba",
+					"title": "Bosnia-Herzegovina",
+					"description": "Bosnia Herzegovina",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/bosnia-herzegovina.html",
+					"x": "0.5490",
+					"y": "0.4922"
+                        },
+				{
+					"id": "me",
+					"title": "Montenegro",
+					"description": "Montenegro",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/montenegro.html",
+					"x": "0.5518",
+					"y": "0.4984"
+                       },
+				{
+					"id": "fi",
+					"title": "Finland",
+					"description": "Finland",
+					"pin": "hidden",
+					"fill": "#795ecd",
+                    "link": "http://www.fattrips.com/finland.html",
+					"x": "0.5676",
+					"y": "0.3681"
+                
+                    
+            
+                    
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<title>Mapplic - Custom Interactive Map Plugin - World Map Example</title>
+
+        
+		<!-- Viewport for Responsivity -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<meta name="description" content="Vector World map with clickable states and pins, an example of using Mapplic, a premium custom interactive map plugin to display custom image or vector (SVG) maps.">
+
+		<!-- Stylesheets -->
+		<link href='https://fonts.googleapis.com/css?family=Maven+Pro:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/o123l1879uu8imi/style.css?dl=0">
+		<link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/vkj9vxweefea9gr/mapplic.css?dl=0">
+		<link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/xcs5qktn16vd060/map.css?dl=0">
+		<!-- Internet Explorer -->
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/8xqtrkep6jb983e/mapplic-ie.css?dl=0">
+			<script type="text/javascript" src="https://dl.dropbox.com/s/ghciupdjk828x5i/html5shiv.js?dl=0"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div id="wrap">
+
+			<!-- Site header -->
+			<header id="header">
+				<div class="inner"
+
+				
+					
+				</div>
+			</header>
+
+			<!-- Site content -->
+			<div id="content">
+
+				<section id="map-section" class="inner over">
+					<div class="editor-window">
+						<div class="window-mockup brown"></div>
+						<div class="editor-body">
+							<code>
+								{<br>
+								&nbsp;&nbsp;&nbsp;"id": "newlandmark",<br>
+								&nbsp;&nbsp;&nbsp;"title": "New Landmark",<br>
+								&nbsp;&nbsp;&nbsp;"description": "Creating a new landmark is that easy!",<br>
+								&nbsp;&nbsp;&nbsp;"x": "<span class="mapplic-coordinates-x">0.0000</span>",<br>
+								&nbsp;&nbsp;&nbsp;"y": "<span class="mapplic-coordinates-y">0.0000</span>",<br>
+								&nbsp;&nbsp;&nbsp;...<br>
+								}
+							</code>
+						</div>
+					</div>
+
+					<div class="map-container">
+						
+						<!-- Map -->
+						<div id="mapplic"></div>
+					</div>
+
+					
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+		<script type="text/javascript" src="jquery.min.js"></script>
+		<script type="text/javascript" src="hammer.min.js"></script>
+		<script type="text/javascript" src="jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="script.js"></script>
+		<script type="text/javascript" src="mapplic.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#mapplic').mapplic({
+					source: 'world.json',
+					height: 460,
+					sidebar: false,
+					minimap: false,
+					fullscreen: false,
+					maxscale: 3,
+					skin: 'mapplic-dark'
+				});
+			});
+		</script>
+	</body>
+
+</html>
