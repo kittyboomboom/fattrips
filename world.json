@@ -26,7 +26,7 @@
 					"description": "United States of America.",
 					"pin": "hidden",
 					"fill": "#82c03e",
-					"link": "http://www.fattrips.com/usa.html",
+					"link": "https://www.fattrips.com/single-post/Top-things-to-see-in-New-York-City",
 					"x": "0.2344",
 					"y": "0.5276"
 				},
@@ -34,7 +34,7 @@
 					"id": "mx",
 					"title": "Mexico",
 					"description": "Mexico",
-					"link": "http://www.fattrips.com/mexico.html",
+					"link": "https://www.fattrips.com/single-post/Mexicos-top-archeological-sites",
 					"fill": "#82c03e",
 					"pin": "hidden",
 					"x": "0.2329",
@@ -56,7 +56,7 @@
 					"description": "Colombia",
 					"pin": "hidden",
 					"fill": "#29afa1",
-                    "link": "http://www.fattrips.com/colombia.html",
+                    "link": "https://www.fattrips.com/single-post/The-Ciudad-Perdida-Trek",
 					"x": "0.3023",
 					"y": "0.6795"
 				},
@@ -76,7 +76,7 @@
 					"description": "Peru.",
 					"pin": "hidden",
 					"fill": "#29afa1",
-					"link": "http://www.fattrips.com/peru.html",
+					"link": "https://www.fattrips.com/single-post/Perus-top-archeological-sites",
 					"x": "0.2946",
 					"y": "0.7334"
 				},
@@ -97,7 +97,7 @@
 					"description": "Chile",
 					"pin": "hidden",
 					"fill": "#29afa1",
-                    "link": "http://www.fattrips.com/chile.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-see-in-Santiago",
 					"x": "0.3123",
 					"y": "0.8063"
 				},
@@ -107,7 +107,7 @@
 					"description": "Argentina",
 					"pin": "hidden",
 					"fill": "#29afa1",
-                    "link": "http://www.fattrips.com/argentina.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-three-days-in-Buenos-Aires",
 					"x": "0.3273",
 					"y": "0.8563"
 				},
@@ -137,7 +137,7 @@
 					"description": "Spain",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/spain.html",
+                    "link": "https://www.fattrips.com/single-post/Barcelonas-most-exciting-districts",
 					"x": "0.4926",
 					"y": "0.5084"
 				},
@@ -147,7 +147,7 @@
 					"description": "Italy",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/italy.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-one-day-in-Venice",
 					"x": "0.5304",
 					"y": "0.4922"
 				},
@@ -177,7 +177,7 @@
 					"description": "France",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/france.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-one-day-in-Paris",
 					"x": "0.5054",
 					"y": "0.4646"
 				},
@@ -187,7 +187,7 @@
 					"description": "Germany",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/germany.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-one-day-in-Hamburg",
 					"x": "0.5271",
 					"y": "0.4475"
                     },
@@ -227,7 +227,7 @@
 					"description": "Czech Republic",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/czech-republic.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-three-days-in-Prague",
 					"x": "0.5415",
 					"y": "0.4576"
                     },
@@ -247,7 +247,7 @@
 					"description": "Denmark",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/denmark.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-two-days-in-Copenhagen",
 					"x": "0.5257",
 					"y": "0.4133"
                     },
@@ -257,7 +257,7 @@
 					"description": "Sweden",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/sweden.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-three-days-in-Stockholm",
 					"x": "0.5382",
 					"y": "0.4041"
                     },
@@ -267,7 +267,7 @@
 					"description": "Belgium",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/belgium.html",
+                    "link": "https://www.fattrips.com/single-post/2017%2FHow-to-spend-one-day-in-Brussels",
 					"x": "0.5140",
 					"y": "0.4510"
                     },
@@ -277,7 +277,7 @@
 					"description": "Turkey",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/turkey.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-do-in-Turkey",
 					"x": "0.5854",
 					"y": "0.5225"
                     },
@@ -297,7 +297,7 @@
 					"description": "Syria",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/syria.html",
+                    "link": "https://www.fattrips.com/single-post/Syria",
 					"x": "0.6015",
 					"y": "0.5405"
                     },
@@ -327,7 +327,7 @@
 					"description": "Thailand",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/thailand.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-do-in-Koh-Chang",
 					"x": "0.7654",
 					"y": "0.6207"
                     },
@@ -337,7 +337,7 @@
 					"description": "Myanmar",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/myanmar.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-do-around-Mandalay",
 					"x": "0.7521",
 					"y": "0.6045"
                     },
@@ -347,7 +347,7 @@
 					"description": "Vietnam",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/vietnam.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-see-in-Hue",
 					"x": "0.7837",
 					"y": "0.6374"
                     },
@@ -357,7 +357,7 @@
 					"description": "Indonesia",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/indonesia.html",
+                    "link": "https://www.fattrips.com/single-post/2017/02/24/Hiking-Kawah-Ijen-Volcano",
 					"x": "0.7704",
 					"y": "0.7054"
                     },
@@ -367,7 +367,7 @@
 					"description": "Laos",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/laos.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-do-in-Luang-Prabang",
 					"x": "0.7687",
 					"y": "0.6111"
                     },
@@ -377,7 +377,7 @@
 					"description": "Singapore",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/singapore.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-three-days-in-Singapore",
 					"x": "0.7712",
 					"y": "0.6870"
                     },
@@ -387,7 +387,7 @@
 					"description": "Malaysia",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/malaysia.html",
+                    "link": "https://www.fattrips.com/single-post/Things-to-do-in-Perhentian-Kecil",
 					"x": "0.7671",
 					"y": "0.6773"
                     },
@@ -397,7 +397,7 @@
 					"description": "Australia",
 					"pin": "hidden",
 					"fill": "skyblue",
-                    "link": "http://www.fattrips.com/australia.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-three-days-in-Sydney",
 					"x": "0.8518",
 					"y": "0.8054"
                     },
@@ -407,7 +407,7 @@
 					"description": "Cambodia",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/cambodia.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-explore-the-Temples-of-Angkor",
 					"x": "0.7740",
 					"y": "0.6409"
                     },
@@ -417,7 +417,7 @@
 					"description": "Tanzania",
 					"pin": "hidden",
 					"fill": "#f19819",
-                    "link": "http://www.fattrips.com/tanzania.html",
+                    "link": "https://www.fattrips.com/single-post/Hiking-in-the-Usambara-Mountains",
 					"x": "0.5979",
 					"y": "0.7190"
                     },
@@ -427,7 +427,7 @@
 					"description": "Portugal",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/portugal.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-two-days-in-Lisbon",
 					"x": "0.4804",
 					"y": "0.5155"
                     },
@@ -437,7 +437,7 @@
 					"description": "Japan",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/japan.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-see-in-Tokyo",
 					"x": "0.8625",
 					"y": "0.5352"
                     },
@@ -447,7 +447,7 @@
 					"description": "South Korea",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/south-korea.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-see-in-Seoul",
 					"x": "0.8351",
 					"y": "0.5331"
                     },
@@ -457,7 +457,7 @@
 					"description": "Hungary",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/hungary.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-two-days-in-Budapest",
 					"x": "0.5526",
 					"y": "0.4747"
                     },
@@ -467,7 +467,7 @@
 					"description": "Taiwan",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/taiwan.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-see-in-Taipei",
 					"x": "0.8167",
 					"y": "0.5934"
                     },
@@ -477,7 +477,7 @@
 					"description": "Malta",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/malta.html",
+                    "link": "https://www.fattrips.com/single-post/10-things-to-see-in-Valletta",
 					"x": "0.5376",
 					"y": "0.5365"
                         },
@@ -487,7 +487,7 @@
 					"description": "China",
 					"pin": "hidden",
 					"fill": "#f23543",
-                    "link": "http://www.fattrips.com/china.html",
+                    "link": "https://www.fattrips.com/single-post/How-to-spend-three-days-in-Hong-Kong",
 					"x": "0.7709",
 					"y": "0.5370"
                         },
@@ -497,7 +497,7 @@
 					"description": "Austria",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/austria.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-see-in-Salzburg",
 					"x": "0.5393",
 					"y": "0.4712"
                         },
@@ -507,7 +507,7 @@
 					"description": "Slovakia",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/slovakia.html",
+                    "link": "https://www.fattrips.com/single-post/2017/02/18/How-to-spend-one-day-in-Bratislava",
 					"x": "0.5515",
 					"y": "0.4659"
                         },
@@ -517,7 +517,7 @@
 					"description": "Croatia",
 					"pin": "hidden",
 					"fill": "#795ecd",
-                    "link": "http://www.fattrips.com/croatia.html",
+                    "link": "https://www.fattrips.com/single-post/Top-things-to-do-in-Korcula",
 					"x": "0.5448",
 					"y": "0.4830"
                         },
