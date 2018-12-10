@@ -8,7 +8,7 @@
 		{
 			"id":"world",
 			"title":"World",
-			"map":"https://rawgit.com/kittyboomboom/fattrips/master/world.svg",
+			"map":"https://cdn.jsdelivr.net/gh/kittyboomboom/fattrips@master/world.svg",
 			"locations":[
 				{
 					"id": "bh",
